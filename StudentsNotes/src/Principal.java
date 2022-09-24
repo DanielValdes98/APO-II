@@ -6,10 +6,9 @@ public class Principal {
 		int DNI = 0;
 		String nombre;
 		double nota = 0.0;		
-		int longitud = 2;
-			
+
 		Scanner input = new Scanner(System.in);		
-		StudentClass arrayStudents[] = new StudentClass[longitud];
+		StudentClass arrayStudents[] = new StudentClass[10];
 		
 		for(int i = 0; i < arrayStudents.length; i++) {
 			String message = String.format("Ingrese el DNI del estudiante %d: ", i);
