@@ -1,1 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T03:43:57.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1ZEqxcH_xqDearfVv1k8" version="20.5.3" type="github" pages="2"><diagram id="ZsYun9rEOM-wiykw4o-6" name="Page-1">7Zbfb5swEMf/GqTtoVOAhDWPhXStplStlmhT9+bCBawaHzLOr/71O4MJISRrVilvkxDivnc2vvvcIRw/yjd3ihXZAyYgHG+QbBx/4njeeOjR3QjbWggGQS2kiie15LbCjL+BFQdWXfIEyk6gRhSaF10xRikh1h2NKYXrbtgCRfetBUuhJ8xiJvrqL57orFavva+tfg88zZo3u8G49uSsCbaZlBlLcL0n+beOHylEXT/lmwiEqV1Tl3rdtxPe3cEUSH3OgiD5nf2ce/eP81H4iM/jwUo9X9ldVkwsbcLf7Wn1tilBuea5YJKscIFSz6zHJZsJnkp6jukMoEhYgdKcqndjHRoLUuOMi2TKtrg0Jy01i18bK8xQ8Tfalgm7J7mVto3gBZ2ImVlJ8oBUBSXFPDXpuwfSA9t0Aqes1FaIUQhWlPxll0bOVMpliFpjboNMphEKpKQmCSzYUpjD9mveFJDyhs2eZBncAeag1ZZCGm/TD3YgXN/a67a93MBq2V5rXdvBYbaj093WLXR6sNz/oQe8Xg84XmhmhYMZlhszctsCen1BCeuKl8JXaGolsW4ULsSB1PSKgIU+2SllwWIu02kVMxm2yg9bCCMhrV2IapYyniQgDWXUTLMaqeFXIJe6qtQopIvqGQ2+jJwRHTwi221tuky4ItyScmG8QgvUL2soj0P/6yi93wmWvBecB967FHj/CPgDxoJX7GrGzQfQ/RDgnFAJaInODfDJlduj7vep+0cIC/YC4glLrjma/VUde0D+Pbjd7uUyA8UvCX3knTntF2I+PDHstHuGyScz6J//z/zF8Adnfuw/MPNktj8TlW/vj8y//QM=</diagram><diagram id="GE32m47yLcfYoCgdgLWP" name="Page-2">ddG9DoIwEADgp+kOrUGZEXVxYnBu6EmbFI6UGtCnF3IgNujSXL+79vrDRFYPZydbfUUFlvFIDUwcGefpjo/jBE+CJEoIKmcUUbxCYV4wYzTrwyjogkKPaL1pQyyxaaD0gUnnsA/L7mjDrq2sYANFKe1Wb0Z5TXrg+9UvYCq9dI6TlDK1XIrnm3RaKuy/SORMZA7RU1QPGdjp7ZZ3oXWnP9nPwRw0/seCMVj3HifBB4n8DQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-22T03:47:44.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uWzBIGbhp4vj-NOyc3Ev" version="20.5.3" type="github" pages="2">
+  <diagram id="ZsYun9rEOM-wiykw4o-6" name="Page-1">
+    <mxGraphModel dx="942" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6dZhVT2HOT5BOoY90vrY-1" value="d" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="130" y="20" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="6dZhVT2HOT5BOoY90vrY-2" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6dZhVT2HOT5BOoY90vrY-1" vertex="1">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6dZhVT2HOT5BOoY90vrY-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="6dZhVT2HOT5BOoY90vrY-1" vertex="1">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="6dZhVT2HOT5BOoY90vrY-4" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6dZhVT2HOT5BOoY90vrY-1" vertex="1">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GE32m47yLcfYoCgdgLWP" name="Page-2">
+    <mxGraphModel dx="942" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
